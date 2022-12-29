@@ -1,4 +1,5 @@
 ﻿using Project.Data;
+using Project.Data.Enums;
 using System.ComponentModel.DataAnnotations;
 
 namespace Project.Models
