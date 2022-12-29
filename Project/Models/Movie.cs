@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Project.Data;
+using System.ComponentModel.DataAnnotations;
 
 namespace Project.Models
 {
