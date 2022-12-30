@@ -9,5 +9,8 @@ namespace Project.Models
         public string? ProfilePictureUrl { get; set; }
         public string? ActorName { get; set; }
         public string? Bio { get; set; }
+
+        //İlişkiler
+        public List<Actor_Movie>? Actors_Movies { get; set;}
     }
 }
