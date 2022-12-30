@@ -11,6 +11,6 @@ namespace Project.Models
         public string? Description { get; set; }
 
         //Ilişkiler
-        public List<Movie> Movies { get; set; }
+        public List<Movie>? Movies { get; set; }
     }
 }
